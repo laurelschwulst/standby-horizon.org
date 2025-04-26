@@ -1,0 +1,11 @@
+html,
+body {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 1.35em 1.25em;
+  font-weight: bold;
+  font-size: 1.25em;
+  color: #545454;
+}
