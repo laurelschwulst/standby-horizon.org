@@ -4,8 +4,9 @@ body {
 }
 
 body {
-  margin: 1.35em 1.25em;
-  font-weight: bold;
-  font-size: 1.25em;
-  color: #545454;
+  margin: 1.5em;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.01em;
+  font-weight: normal;
 }
